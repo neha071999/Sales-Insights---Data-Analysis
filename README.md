@@ -29,5 +29,5 @@ Create visualizations like charts, tables, and graphs to represent your data eff
 ### 8. Dashboard Navigation:
 - Organize your visualizations into different pages or sections to make navigation intuitive. Users should be able to find what they need easily.
 
-tool: Microsoft Power BI, PostgreSQL
-project link: https://lnkd.in/dUAkZmYn
+#### tool: Microsoft Power BI, PostgreSQL
+#### project link: https://www.novypro.com/project/sales-insights---bricks-and-motor-dashboard
